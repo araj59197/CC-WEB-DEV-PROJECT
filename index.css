@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(245, 249, 36);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    /*display:flex;
+    justify-content: center;*/
+
+
+}
+
+#mainbox {
+    background-color: rgba(228, 167, 234, 0.693);
+    margin-left: 200px;
+    border: 5px green solid;
+    border-radius: 10px;
+    height: 80%;
+    width: 50%;
+    /*rotate: 5deg;*/
+    font-style: italic;
+
+}
+
+#btn {
+    color: black;
+    background-color: aliceblue;
+    font-size: 1rem;
+    margin: 10px;
+}
+
+#num {
+    display: block;
+    font-size: 2rem;
+    color: rgb(9, 112, 201);
+    font-weight: bolder;
+    border: 2px solid whitesmoke;
+    width: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+
+.box {
+    background-color: aliceblue;
+    border: solid white 1px;
+    margin: 20px;
+}
+
+#secbox {
+    background-color: rgb(253, 251, 248);
+    border: white dotted 2px;
+}
